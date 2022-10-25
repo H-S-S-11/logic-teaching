@@ -27,3 +27,4 @@ fp-info-cache
 
 logic_teaching_pcb/logic_teaching_pcb-backups
 *.gbr
+*.drl
