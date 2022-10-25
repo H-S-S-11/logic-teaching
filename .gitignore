@@ -26,3 +26,4 @@ fp-info-cache
 *.csv
 
 logic_teaching_pcb/logic_teaching_pcb-backups
+*.gbr
