@@ -24,3 +24,5 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+logic_teaching_pcb/logic_teaching_pcb-backups
