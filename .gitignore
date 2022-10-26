@@ -28,3 +28,4 @@ fp-info-cache
 logic_teaching_pcb/logic_teaching_pcb-backups
 *.gbr
 *.drl
+logic_teaching_pcb/#auto_saved_files#
